@@ -1,6 +1,7 @@
 # Single-line Version Control System
 
 > **Warning**
+> 
 > This project is in early development and not available now.
 
 A simple versioning tool that only have one branch.
@@ -8,6 +9,7 @@ A simple versioning tool that only have one branch.
 Maybe useful in file syncing and auto CI/CD :)
 
 > **Warning**
+> 
 > **If you want to find some version control tool, please never use SVC, it lacks the core ability
 of managing a project.**
 
